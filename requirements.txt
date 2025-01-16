@@ -17,3 +17,4 @@ streamlit
 wikipedia
 duckduckgo-search
 pymupdf
+langchain-groq
